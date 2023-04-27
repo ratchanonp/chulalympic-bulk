@@ -1,0 +1,254 @@
+[
+    {
+        "id": 906,
+        "facultyId": 8,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": "None",
+        "gameId": "HB-TEAM-W-0006",
+        "note": null
+    },
+    {
+        "id": 907,
+        "facultyId": 9,
+        "scoreType": "POINT",
+        "value": 1,
+        "medal": "None",
+        "gameId": "HB-TEAM-W-0006",
+        "note": null
+    },
+    {
+        "id": 908,
+        "facultyId": 11,
+        "scoreType": "POINT",
+        "value": 6,
+        "medal": "None",
+        "gameId": "HB-TEAM-W-0007",
+        "note": null
+    },
+    {
+        "id": 909,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 9,
+        "medal": "None",
+        "gameId": "HB-TEAM-W-0007",
+        "note": null
+    },
+    {
+        "id": 910,
+        "facultyId": 21,
+        "scoreType": "POINT",
+        "value": 6,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0007",
+        "note": null
+    },
+    {
+        "id": 911,
+        "facultyId": 22,
+        "scoreType": "POINT",
+        "value": 3,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0007",
+        "note": null
+    },
+    {
+        "id": 912,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 15,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0008",
+        "note": null
+    },
+    {
+        "id": 913,
+        "facultyId": 12,
+        "scoreType": "POINT",
+        "value": 5,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0008",
+        "note": null
+    },
+    {
+        "id": 914,
+        "facultyId": 18,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0009",
+        "note": null
+    },
+    {
+        "id": 915,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 1,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0009",
+        "note": null
+    },
+    {
+        "id": 916,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 8,
+        "medal": "None",
+        "gameId": "HB-TEAM-W-0008",
+        "note": null
+    },
+    {
+        "id": 917,
+        "facultyId": 21,
+        "scoreType": "POINT",
+        "value": 7,
+        "medal": "None",
+        "gameId": "HB-TEAM-W-0008",
+        "note": null
+    },
+    {
+        "id": 918,
+        "facultyId": 9,
+        "scoreType": "POINT",
+        "value": 5,
+        "medal": "None",
+        "gameId": "HB-TEAM-W-0009",
+        "note": null
+    },
+    {
+        "id": 919,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 11,
+        "medal": "None",
+        "gameId": "HB-TEAM-W-0009",
+        "note": null
+    },
+    {
+        "id": 920,
+        "facultyId": 5,
+        "scoreType": "POINT",
+        "value": 8,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0010",
+        "note": null
+    },
+    {
+        "id": 921,
+        "facultyId": 10,
+        "scoreType": "POINT",
+        "value": 5,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0010",
+        "note": null
+    },
+    {
+        "id": 922,
+        "facultyId": 21,
+        "scoreType": "POINT",
+        "value": 11,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0011",
+        "note": null
+    },
+    {
+        "id": 923,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 13,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0011",
+        "note": null
+    },
+    {
+        "id": 924,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 19,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0012",
+        "note": null
+    },
+    {
+        "id": 925,
+        "facultyId": 5,
+        "scoreType": "POINT",
+        "value": 11,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0012",
+        "note": null
+    },
+    {
+        "id": 926,
+        "facultyId": 21,
+        "scoreType": "POINT",
+        "value": 11,
+        "medal": "None",
+        "gameId": "HB-TEAM-W-0010",
+        "note": null
+    },
+    {
+        "id": 927,
+        "facultyId": 9,
+        "scoreType": "POINT",
+        "value": 9,
+        "medal": "None",
+        "gameId": "HB-TEAM-W-0010",
+        "note": null
+    },
+    {
+        "id": 928,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 14,
+        "medal": "None",
+        "gameId": "HB-TEAM-W-0011",
+        "note": null
+    },
+    {
+        "id": 929,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 16,
+        "medal": "None",
+        "gameId": "HB-TEAM-W-0011",
+        "note": null
+    },
+    {
+        "id": 930,
+        "facultyId": 21,
+        "scoreType": "POINT",
+        "value": 9,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0013",
+        "note": null
+    },
+    {
+        "id": 931,
+        "facultyId": 5,
+        "scoreType": "POINT",
+        "value": 8,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0013",
+        "note": null
+    },
+    {
+        "id": 932,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 14,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0014",
+        "note": null
+    },
+    {
+        "id": 933,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 13,
+        "medal": "None",
+        "gameId": "HB-TEAM-M-0014",
+        "note": null
+    }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "id": 832,
+        "facultyId": 9,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-M-100-0001",
+        "note": null
+    },
+    {
+        "id": 833,
+        "facultyId": 1,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-M-100-0001",
+        "note": null
+    },
+    {
+        "id": 834,
+        "facultyId": 14,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-M-100-0001",
+        "note": null
+    },
+    {
+        "id": 835,
+        "facultyId": 19,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-W-100-0001",
+        "note": null
+    },
+    {
+        "id": 836,
+        "facultyId": 7,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-W-100-0001",
+        "note": null
+    },
+    {
+        "id": 837,
+        "facultyId": 3,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-W-100-0001",
+        "note": null
+    },
+    {
+        "id": 838,
+        "facultyId": 3,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-M-400-0001",
+        "note": null
+    },
+    {
+        "id": 839,
+        "facultyId": 7,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-M-400-0001",
+        "note": null
+    },
+    {
+        "id": 840,
+        "facultyId": 1,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-M-400-0001",
+        "note": null
+    },
+    {
+        "id": 841,
+        "facultyId": 19,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-W-400-0001",
+        "note": null
+    },
+    {
+        "id": 842,
+        "facultyId": 5,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-W-400-0001",
+        "note": null
+    },
+    {
+        "id": 843,
+        "facultyId": 14,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-W-400-0001",
+        "note": null
+    },
+    {
+        "id": 844,
+        "facultyId": 1,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-M-1500-0001",
+        "note": null
+    },
+    {
+        "id": 845,
+        "facultyId": 1,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-M-1500-0001",
+        "note": null
+    },
+    {
+        "id": 846,
+        "facultyId": 19,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-M-1500-0001",
+        "note": null
+    },
+    {
+        "id": 847,
+        "facultyId": 19,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-W-1500-0001",
+        "note": null
+    },
+    {
+        "id": 848,
+        "facultyId": 6,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-W-1500-0001",
+        "note": null
+    },
+    {
+        "id": 849,
+        "facultyId": 8,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-W-1500-0001",
+        "note": null
+    },
+    {
+        "id": 850,
+        "facultyId": 7,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-M-4x100-0001",
+        "note": null
+    },
+    {
+        "id": 851,
+        "facultyId": 22,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-M-4x100-0001",
+        "note": null
+    },
+    {
+        "id": 852,
+        "facultyId": 14,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-M-4x100-0001",
+        "note": null
+    },
+    {
+        "id": 853,
+        "facultyId": 8,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-W-4x100-0001",
+        "note": null
+    },
+    {
+        "id": 854,
+        "facultyId": 5,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-W-4x100-0001",
+        "note": null
+    },
+    {
+        "id": 855,
+        "facultyId": 3,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-W-4x100-0001",
+        "note": null
+    },
+    {
+        "id": 856,
+        "facultyId": 2,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-M-200-0001",
+        "note": null
+    },
+    {
+        "id": 857,
+        "facultyId": 14,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-M-200-0001",
+        "note": null
+    },
+    {
+        "id": 858,
+        "facultyId": 14,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-M-200-0001",
+        "note": null
+    },
+    {
+        "id": 859,
+        "facultyId": 22,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-W-200-0001",
+        "note": null
+    },
+    {
+        "id": 860,
+        "facultyId": 19,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-W-200-0001",
+        "note": null
+    },
+    {
+        "id": 861,
+        "facultyId": 5,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-W-200-0001",
+        "note": null
+    },
+    {
+        "id": 862,
+        "facultyId": 1,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-M-800-0001",
+        "note": null
+    },
+    {
+        "id": 863,
+        "facultyId": 3,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-M-800-0001",
+        "note": null
+    },
+    {
+        "id": 864,
+        "facultyId": 1,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-M-800-0001",
+        "note": null
+    },
+    {
+        "id": 865,
+        "facultyId": 8,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-W-800-0001",
+        "note": null
+    },
+    {
+        "id": 866,
+        "facultyId": 19,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-W-800-0001",
+        "note": null
+    },
+    {
+        "id": 867,
+        "facultyId": 2,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-W-800-0001",
+        "note": null
+    },
+    {
+        "id": 868,
+        "facultyId": 7,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-M-4x400-0001",
+        "note": null
+    },
+    {
+        "id": 869,
+        "facultyId": 19,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-M-4x400-0001",
+        "note": null
+    },
+    {
+        "id": 870,
+        "facultyId": 3,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-M-4x400-0001",
+        "note": null
+    },
+    {
+        "id": 871,
+        "facultyId": 7,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-W-4x400-0001",
+        "note": null
+    },
+    {
+        "id": 872,
+        "facultyId": 3,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-W-4x400-0001",
+        "note": null
+    },
+    {
+        "id": 873,
+        "facultyId": 6,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-W-4x400-0001",
+        "note": null
+    },
+    {
+        "id": 874,
+        "facultyId": 14,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-M-MEDLEY-0001",
+        "note": null
+    },
+    {
+        "id": 875,
+        "facultyId": 7,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-M-MEDLEY-0001",
+        "note": null
+    },
+    {
+        "id": 876,
+        "facultyId": 6,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-M-MEDLEY-0001",
+        "note": null
+    },
+    {
+        "id": 877,
+        "facultyId": 7,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-W-MEDLEY-0001",
+        "note": null
+    },
+    {
+        "id": 878,
+        "facultyId": 18,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-W-MEDLEY-0001",
+        "note": null
+    },
+    {
+        "id": 879,
+        "facultyId": 19,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-W-MEDLEY-0001",
+        "note": null
+    },
+    {
+        "id": 880,
+        "facultyId": 7,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-MIX-4x100-0001",
+        "note": null
+    },
+    {
+        "id": 881,
+        "facultyId": 19,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-MIX-4x100-0001",
+        "note": null
+    },
+    {
+        "id": 882,
+        "facultyId": 2,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-MIX-4x100-0001",
+        "note": null
+    },
+    {
+        "id": 883,
+        "facultyId": 7,
+        "scoreType": "POSITION",
+        "value": 1,
+        "medal": "Gold",
+        "gameId": "AH-MIX-4x400-0001",
+        "note": null
+    },
+    {
+        "id": 884,
+        "facultyId": 19,
+        "scoreType": "POSITION",
+        "value": 2,
+        "medal": "Silver",
+        "gameId": "AH-MIX-4x400-0001",
+        "note": null
+    },
+    {
+        "id": 885,
+        "facultyId": 6,
+        "scoreType": "POSITION",
+        "value": 3,
+        "medal": "Bronze",
+        "gameId": "AH-MIX-4x400-0001",
+        "note": null
+    }
+]

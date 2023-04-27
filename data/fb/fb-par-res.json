@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1045,
+        "facultyId": 4,
+        "scoreType": "POINT",
+        "value": 1,
+        "medal": null,
+        "gameId": "FB-TEAM-0016",
+        "note": null
+    },
+    {
+        "id": 1046,
+        "facultyId": 14,
+        "scoreType": "POINT",
+        "value": 3,
+        "medal": null,
+        "gameId": "FB-TEAM-0016",
+        "note": null
+    },
+    {
+        "id": 1047,
+        "facultyId": 6,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0017",
+        "note": null
+    },
+    {
+        "id": 1048,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "FB-TEAM-0017",
+        "note": null
+    },
+    {
+        "id": 1049,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "FB-TEAM-0018",
+        "note": null
+    },
+    {
+        "id": 1050,
+        "facultyId": 5,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0018",
+        "note": null
+    },
+    {
+        "id": 1051,
+        "facultyId": 2,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0019",
+        "note": null
+    },
+    {
+        "id": 1052,
+        "facultyId": 1,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "FB-TEAM-0019",
+        "note": null
+    },
+    {
+        "id": 1053,
+        "facultyId": 21,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "FB-TEAM-0020",
+        "note": null
+    },
+    {
+        "id": 1054,
+        "facultyId": 5,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0020",
+        "note": null
+    },
+    {
+        "id": 1055,
+        "facultyId": 12,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0021",
+        "note": null
+    },
+    {
+        "id": 1056,
+        "facultyId": 22,
+        "scoreType": "POINT",
+        "value": 3,
+        "medal": null,
+        "gameId": "FB-TEAM-0021",
+        "note": null
+    },
+    {
+        "id": 1057,
+        "facultyId": 10,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0022",
+        "note": null
+    },
+    {
+        "id": 1058,
+        "facultyId": 9,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0022",
+        "note": null
+    },
+    {
+        "id": 1059,
+        "facultyId": 11,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0023",
+        "note": null
+    },
+    {
+        "id": 1060,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0023",
+        "note": null
+    },
+    {
+        "id": 1061,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0024",
+        "note": null
+    },
+    {
+        "id": 1062,
+        "facultyId": 14,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0024",
+        "note": null
+    },
+    {
+        "id": 1063,
+        "facultyId": 1,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0025",
+        "note": null
+    },
+    {
+        "id": 1064,
+        "facultyId": 22,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0025",
+        "note": null
+    },
+    {
+        "id": 1065,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0026",
+        "note": null
+    },
+    {
+        "id": 1066,
+        "facultyId": 21,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "FB-TEAM-0027",
+        "note": null
+    }
+]

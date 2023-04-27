@@ -1,0 +1,596 @@
+[
+    {
+        "id": 955,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-MAN-0041",
+        "note": null
+    },
+    {
+        "id": 956,
+        "facultyId": 17,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-MAN-0041",
+        "note": null
+    },
+    {
+        "id": 957,
+        "facultyId": 2,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-MAN-0042",
+        "note": null
+    },
+    {
+        "id": 958,
+        "facultyId": 6,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-MAN-0042",
+        "note": null
+    },
+    {
+        "id": 959,
+        "facultyId": 4,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-MAN-0043",
+        "note": null
+    },
+    {
+        "id": 960,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-MAN-0043",
+        "note": null
+    },
+    {
+        "id": 961,
+        "facultyId": 1,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-MAN-0044",
+        "note": null
+    },
+    {
+        "id": 962,
+        "facultyId": 9,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-MAN-0044",
+        "note": null
+    },
+    {
+        "id": 963,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-MAN-0045",
+        "note": null
+    },
+    {
+        "id": 964,
+        "facultyId": 2,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-MAN-0045",
+        "note": null
+    },
+    {
+        "id": 965,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-MAN-0046",
+        "note": null
+    },
+    {
+        "id": 966,
+        "facultyId": 1,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-MAN-0046",
+        "note": null
+    },
+    {
+        "id": 967,
+        "facultyId": 2,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": "Bronze",
+        "gameId": "VB-MAN-0047",
+        "note": null
+    },
+    {
+        "id": 968,
+        "facultyId": 1,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-MAN-0047",
+        "note": null
+    },
+    {
+        "id": 969,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": "Gold",
+        "gameId": "VB-MAN-0048",
+        "note": null
+    },
+    {
+        "id": 970,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": "Silver",
+        "gameId": "VB-MAN-0048",
+        "note": null
+    },
+    {
+        "id": 971,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0020",
+        "note": null
+    },
+    {
+        "id": 972,
+        "facultyId": 17,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0020",
+        "note": null
+    },
+    {
+        "id": 973,
+        "facultyId": 2,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0021",
+        "note": null
+    },
+    {
+        "id": 974,
+        "facultyId": 11,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0021",
+        "note": null
+    },
+    {
+        "id": 975,
+        "facultyId": 9,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0022",
+        "note": null
+    },
+    {
+        "id": 976,
+        "facultyId": 18,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0022",
+        "note": null
+    },
+    {
+        "id": 977,
+        "facultyId": 10,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0023",
+        "note": null
+    },
+    {
+        "id": 978,
+        "facultyId": 3,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0023",
+        "note": null
+    },
+    {
+        "id": 979,
+        "facultyId": 15,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0024",
+        "note": null
+    },
+    {
+        "id": 980,
+        "facultyId": 23,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0024",
+        "note": null
+    },
+    {
+        "id": 981,
+        "facultyId": 8,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0025",
+        "note": null
+    },
+    {
+        "id": 982,
+        "facultyId": 17,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0025",
+        "note": null
+    },
+    {
+        "id": 983,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0026",
+        "note": null
+    },
+    {
+        "id": 984,
+        "facultyId": 11,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0026",
+        "note": null
+    },
+    {
+        "id": 985,
+        "facultyId": 21,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0027",
+        "note": null
+    },
+    {
+        "id": 986,
+        "facultyId": 14,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0027",
+        "note": null
+    },
+    {
+        "id": 987,
+        "facultyId": 5,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0028",
+        "note": null
+    },
+    {
+        "id": 988,
+        "facultyId": 6,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0028",
+        "note": null
+    },
+    {
+        "id": 989,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0029",
+        "note": null
+    },
+    {
+        "id": 990,
+        "facultyId": 23,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0029",
+        "note": null
+    },
+    {
+        "id": 991,
+        "facultyId": 18,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0030",
+        "note": null
+    },
+    {
+        "id": 992,
+        "facultyId": 14,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0030",
+        "note": null
+    },
+    {
+        "id": 993,
+        "facultyId": 6,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0031",
+        "note": null
+    },
+    {
+        "id": 994,
+        "facultyId": 12,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0031",
+        "note": null
+    },
+    {
+        "id": 995,
+        "facultyId": 21,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0032",
+        "note": null
+    },
+    {
+        "id": 996,
+        "facultyId": 9,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0032",
+        "note": null
+    },
+    {
+        "id": 997,
+        "facultyId": 8,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0033",
+        "note": null
+    },
+    {
+        "id": 998,
+        "facultyId": 15,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0033",
+        "note": null
+    },
+    {
+        "id": 999,
+        "facultyId": 1,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0034",
+        "note": null
+    },
+    {
+        "id": 1000,
+        "facultyId": 18,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0034",
+        "note": null
+    },
+    {
+        "id": 1001,
+        "facultyId": 5,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0035",
+        "note": null
+    },
+    {
+        "id": 1002,
+        "facultyId": 3,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0035",
+        "note": null
+    },
+    {
+        "id": 1003,
+        "facultyId": 10,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0036",
+        "note": null
+    },
+    {
+        "id": 1004,
+        "facultyId": 12,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0036",
+        "note": null
+    },
+    {
+        "id": 1005,
+        "facultyId": 1,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0037",
+        "note": null
+    },
+    {
+        "id": 1006,
+        "facultyId": 2,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0037",
+        "note": null
+    },
+    {
+        "id": 1007,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0038",
+        "note": null
+    },
+    {
+        "id": 1008,
+        "facultyId": 14,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0038",
+        "note": null
+    },
+    {
+        "id": 1009,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0039",
+        "note": null
+    },
+    {
+        "id": 1010,
+        "facultyId": 10,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0039",
+        "note": null
+    },
+    {
+        "id": 1011,
+        "facultyId": 6,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0040",
+        "note": null
+    },
+    {
+        "id": 1012,
+        "facultyId": 23,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0040",
+        "note": null
+    },
+    {
+        "id": 1013,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0041",
+        "note": null
+    },
+    {
+        "id": 1014,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0041",
+        "note": null
+    },
+    {
+        "id": 1015,
+        "facultyId": 1,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": null,
+        "gameId": "VB-WOMAN-0042",
+        "note": null
+    },
+    {
+        "id": 1016,
+        "facultyId": 6,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0042",
+        "note": null
+    },
+    {
+        "id": 1017,
+        "facultyId": 19,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": "Bronze",
+        "gameId": "VB-WOMAN-0043",
+        "note": null
+    },
+    {
+        "id": 1018,
+        "facultyId": 6,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": null,
+        "gameId": "VB-WOMAN-0043",
+        "note": null
+    },
+    {
+        "id": 1019,
+        "facultyId": 7,
+        "scoreType": "POINT",
+        "value": 2,
+        "medal": "Gold",
+        "gameId": "VB-WOMAN-0044",
+        "note": null
+    },
+    {
+        "id": 1020,
+        "facultyId": 1,
+        "scoreType": "POINT",
+        "value": 0,
+        "medal": "Silver",
+        "gameId": "VB-WOMAN-0044",
+        "note": null
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "code": "M-100",
+        "name": "100 เมตร ชาย",
+        "sportCode": "AH"
+    },
+    {
+        "code": "M-1500",
+        "name": "1500 เมตร ชาย",
+        "sportCode": "AH"
+    },
+    {
+        "code": "M-200",
+        "name": "200 เมตร ชาย",
+        "sportCode": "AH"
+    },
+    {
+        "code": "M-400",
+        "name": "400 เมตร ชาย",
+        "sportCode": "AH"
+    },
+    {
+        "code": "M-4x100",
+        "name": "4x100 เมตร ชาย",
+        "sportCode": "AH"
+    },
+    {
+        "code": "M-4x400",
+        "name": "4x400 เมตร ชาย",
+        "sportCode": "AH"
+    },
+    {
+        "code": "M-800",
+        "name": "800 เมตร ชาย",
+        "sportCode": "AH"
+    },
+    {
+        "code": "M-MEDLEY",
+        "name": "MEDLEY ชาย",
+        "sportCode": "AH"
+    },
+    {
+        "code": "MIX-4x100",
+        "name": "4x100 ผสม",
+        "sportCode": "AH"
+    },
+    {
+        "code": "MIX-4x400",
+        "name": "4x400 ผสม",
+        "sportCode": "AH"
+    },
+    {
+        "code": "W-100",
+        "name": "100 เมตร หญิง",
+        "sportCode": "AH"
+    },
+    {
+        "code": "W-1500",
+        "name": "1500 เมตร หญิง",
+        "sportCode": "AH"
+    },
+    {
+        "code": "W-200",
+        "name": "200 เมตร หญิง",
+        "sportCode": "AH"
+    },
+    {
+        "code": "W-400",
+        "name": "400 เมตร หญิง",
+        "sportCode": "AH"
+    },
+    {
+        "code": "W-4x100",
+        "name": "4x100 เมตร หญิง",
+        "sportCode": "AH"
+    },
+    {
+        "code": "W-4x400",
+        "name": "4x400 เมตร หญิง",
+        "sportCode": "AH"
+    },
+    {
+        "code": "W-800",
+        "name": "800 เมตร หญิง",
+        "sportCode": "AH"
+    },
+    {
+        "code": "W-MEDLEY",
+        "name": "MEDLEY หญิง",
+        "sportCode": "AH"
+    }
+]
